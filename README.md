@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @saimasplace
-- 👀 I’m interested in creating solutions to fully harness the potential of blockchain technology 
-- 🌱 I’m currently learning the architecture of blockcahin, the workings of Polkadot, looking after myself
+- 👋 Hi, I’m @saima
+- 👀 I’m interested in creating something 
+- 🌱 I’m currently learning to code java
 - 📫 How to reach me. Instagram saimas_place
 - 😄 Pronouns: She/her 
-- ⚡ Fun fact: I went insane learning about the possibilities of blockchain technology and was sectioned 3x times. 
+- ⚡ Fun fact: books 
 
 <!---
 saimasplace/saimasplace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

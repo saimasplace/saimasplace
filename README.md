@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saima
 - 👀 I’m interested in creating something 
-- 🌱 I’m currently learning to code java
+- 🌱 I’m currently learning to code Python
 - 📫 How to reach me. Instagram saimas_place
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: books 

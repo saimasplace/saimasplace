@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saima
-- 👀 I’m interested in creating something 
+- 👀 I’m interested in creating something on web 3
 - 🌱 I’m currently learning to code Python
 - 📫 How to reach me. Instagram saimas_place
 - 😄 Pronouns: She/her 
